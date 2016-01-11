@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menu" type="id">menu</item>
+    <item name="fabButton" type="id">fabButton</item>
+    <item name="fabSaveButton" type="id">fabSaveButton</item>
+    <item name="fabSendButton" type="id">fabSendButton</item>
+</resources>
